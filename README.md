@@ -1,6 +1,7 @@
 # RestartUpdate
 Scripts and instructions for implementing the "Restart and Update" system.
 
+Background info
 
 Chalenge:
 Give our users a SIMPLE way to keep they computer up to date.
