@@ -42,6 +42,8 @@ And how to install all the updates?
 
 I needed something at logout to ask the user if they wanted to install updates.
 So a script of some sort.
+
+----EDIT----
 I found cocoaDialog.
 cocoaDialog is an OS X application that allows the use of common GUI controls such as file selectors, text input, progress bars, yes/no confirmations and more with a command-line application. It requires no knowledge of Cocoa, and is ideal for use in shell and Perl scripts (or Ruby, or Python, or... etc). 
 
@@ -49,7 +51,8 @@ It worked consistently, it was easy to script, it had lots of options.
 So i created a logout script to ask the user if they wanted to install updates.
 Yes or no.
 https://jamfnation.jamfsoftware.com/featureRequest.html?id=1148
-
+-------------
+I am now useing jamfhelper
 
 So no if they click yes, how do I install al the updates?
 The script kicks off a policy to:
